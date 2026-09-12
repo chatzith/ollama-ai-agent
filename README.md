@@ -18,7 +18,7 @@ ollama pull mistral:latest
 
 ## Usage
 
-1. Place one input file in the `input/` directory next to `reader.py. The
+1. Place one input file in the `input/` directory. The
 	directory is created automatically if it does not exist.
 2. Install the project dependencies:
 
